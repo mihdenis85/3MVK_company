@@ -1,0 +1,8 @@
+flask
+flask-login
+flask-wtf
+sqlalchemy
+wtforms
+SQLAlchemy-serializer
+psycopg2
+gunicorn
